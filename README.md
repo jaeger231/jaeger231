@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harun Kamande</h1>
 <h3 align="center">AWS Solutions Architect & Cloud Security Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws" />
