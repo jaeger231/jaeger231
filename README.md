@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Harun Kamande</h1>
 <h3 align="center">AWS Solutions Architect & Cloud Security Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws" />
   <img src="https://img.shields.io/badge/API-Security_Fundamentals-4285F4?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/AWS-Security_Specialist-FF9900?style=for-the-badge&logo=amazon-aws" />
 </p>
 
 ### 🛡️ About Me
@@ -19,9 +18,8 @@
 - 👨‍💻 AWS Security Portfolio: [Security-Projects](https://github.com/yourusername/security-projects)
 - 🛠️ AWS Architecture Designs: [Architecture-Diagrams](https://github.com/yourusername/security-architecture)
 - 📊 API Security Implementations: [API-Security](https://github.com/yourusername/api-security)
-- 📫 Reach me at: **your.email@domain.com**
+- 📫 Reach me at: **harunkamande780@gmail.com**
 
-### 🔧 Security Arsenal
 - **AWS Services:** 
   - CloudWatch
   - GuardDuty
@@ -54,13 +52,11 @@
   - VPC Security
   - Container Security (ECS/EKS)
   - SIEM & Log Analysis
-  - Penetration Testing
   - Compliance (SOC2, ISO 27001)
 
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourusername" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourprofile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harun-kamande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourprofile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠️ Tools & Technologies:</h3>
