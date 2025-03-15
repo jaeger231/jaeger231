@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harun Kamande</h1>
-<h3 align="center">AWS Solutions Architect & Cloud Security Specialist</h3>
+<h3 align="center">AWS Solutions Architect & Cloud Security enthusiasist</h3>
 
 
 
@@ -15,9 +15,9 @@
 - 🎯 Mission: Building robust and secure AWS infrastructures
 
 ### 🔐 Expertise
-- 👨‍💻 AWS Security Portfolio: [Security-Projects](https://github.com/yourusername/security-projects)
-- 🛠️ AWS Architecture Designs: [Architecture-Diagrams](https://github.com/yourusername/security-architecture)
-- 📊 API Security Implementations: [API-Security](https://github.com/yourusername/api-security)
+- 👨‍💻 AWS Security 
+- 🛠️ AWS Architecture Designs
+- 📊 API Security Implementations
 - 📫 Reach me at: **harunkamande780@gmail.com**
 
 - **AWS Services:** 
