@@ -9,13 +9,11 @@
 </p>
 
 ### 🛡️ About Me
-- 🔒 AWS Cloud Security Engineer with Solutions Architect Associate certification
-- 🌐 API Security specialist focused on securing cloud-native applications
+- 🔒 AWS Cloud Engineer with Solutions Architect Associate certification
 - 🚀 DevSecOps practitioner implementing security-as-code
 - 🎯 Mission: Building robust and secure AWS infrastructures
 
 ### 🔐 Expertise
-- 👨‍💻 AWS Security 
 - 🛠️ AWS Architecture Designs
 - 📊 API Security Implementations
 - 📫 Reach me at: **harunkamande780@gmail.com**
@@ -28,31 +26,17 @@
   - AWS KMS
   - AWS Secrets Manager
   - AWS CloudTrail
-  - AWS Config
-  - AWS Security Hub
-
-- **API Security:**
-  - OAuth 2.0
-  - JWT
-  - API Gateway
-  - Lambda Authorizers
-  - OpenAPI/Swagger
-  - REST Security
-  - GraphQL Security
 
 - **Infrastructure & Automation:**
   - CloudFormation
   - Terraform
-  - AWS CDK
-  - AWS Systems Manager
   - AWS Organizations
 
 - **Security Tools & Practices:**
   - IAM & Access Control
   - VPC Security
   - Container Security (ECS/EKS)
-  - SIEM & Log Analysis
-  - Compliance (SOC2, ISO 27001)
+  - Log Analysis
 
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
