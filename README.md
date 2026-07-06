@@ -56,7 +56,7 @@ On-prem to S3 migration via Storage Gateway with multi-region replication and en
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 - AWS Certified Solutions Architect – Associate (SAA-C03)
 - AWS Certified Cloud Practitioner (CLF-C02)
